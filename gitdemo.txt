@@ -1,0 +1,14 @@
+hi 
+practicing git
+
+
+adding new feature 
+addition
+x= a+b 
+
+adding new feature 
+division
+
+adding new branch
+mergeexample
+
