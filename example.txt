@@ -1,0 +1,5 @@
+creating everything new 
+calculator app
+x=a+b
+c =a*b
+
